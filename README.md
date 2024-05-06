@@ -1,6 +1,6 @@
 ## Hello! I'm João Vieira 🖐️
 
-💻 Web Developer Full Stack Jr
+💻 Jr. Full Stack Web Developer  
 
 💼 Currently looking for a job
 
