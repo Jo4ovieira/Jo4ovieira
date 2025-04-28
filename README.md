@@ -2,7 +2,7 @@
 
 💻 Jr. Full Stack Web Developer  
 
-💼 Currently looking for a job
+💼 Currently working at Unetvale
 
 👨‍💻 Currently learning more about Typescript, React and Node
 
